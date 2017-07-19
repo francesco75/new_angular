@@ -1,0 +1,19 @@
+{
+  "name": "new_angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francesco75/new_angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francesco75/new_angular/issues"
+  },
+  "homepage": "https://github.com/francesco75/new_angular#readme"
+}
